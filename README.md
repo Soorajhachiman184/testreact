@@ -1,1 +1,1 @@
-sample project fro github upload
+sample project fro github upload and deploy it 
